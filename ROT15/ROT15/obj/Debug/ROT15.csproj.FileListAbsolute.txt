@@ -1,0 +1,8 @@
+E:\Users\Fabi\Documents\Visual Studio 2022\Zeug\ROT15\ROT15\bin\Debug\ROT15.exe.config
+E:\Users\Fabi\Documents\Visual Studio 2022\Zeug\ROT15\ROT15\bin\Debug\ROT15.exe
+E:\Users\Fabi\Documents\Visual Studio 2022\Zeug\ROT15\ROT15\bin\Debug\ROT15.pdb
+E:\Users\Fabi\Documents\Visual Studio 2022\Zeug\ROT15\ROT15\obj\Debug\ROT15.csproj.AssemblyReference.cache
+E:\Users\Fabi\Documents\Visual Studio 2022\Zeug\ROT15\ROT15\obj\Debug\ROT15.csproj.SuggestedBindingRedirects.cache
+E:\Users\Fabi\Documents\Visual Studio 2022\Zeug\ROT15\ROT15\obj\Debug\ROT15.csproj.CoreCompileInputs.cache
+E:\Users\Fabi\Documents\Visual Studio 2022\Zeug\ROT15\ROT15\obj\Debug\ROT15.exe
+E:\Users\Fabi\Documents\Visual Studio 2022\Zeug\ROT15\ROT15\obj\Debug\ROT15.pdb
