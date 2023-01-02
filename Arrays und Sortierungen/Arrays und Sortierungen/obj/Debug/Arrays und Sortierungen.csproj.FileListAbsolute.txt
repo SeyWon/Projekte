@@ -1,0 +1,8 @@
+C:\Users\f.moster\Desktop\Coden\Arrays und Sortierungen\Arrays und Sortierungen\bin\Debug\Arrays und Sortierungen.exe.config
+C:\Users\f.moster\Desktop\Coden\Arrays und Sortierungen\Arrays und Sortierungen\bin\Debug\Arrays und Sortierungen.exe
+C:\Users\f.moster\Desktop\Coden\Arrays und Sortierungen\Arrays und Sortierungen\bin\Debug\Arrays und Sortierungen.pdb
+C:\Users\f.moster\Desktop\Coden\Arrays und Sortierungen\Arrays und Sortierungen\obj\Debug\Arrays und Sortierungen.csproj.AssemblyReference.cache
+C:\Users\f.moster\Desktop\Coden\Arrays und Sortierungen\Arrays und Sortierungen\obj\Debug\Arrays und Sortierungen.csproj.SuggestedBindingRedirects.cache
+C:\Users\f.moster\Desktop\Coden\Arrays und Sortierungen\Arrays und Sortierungen\obj\Debug\Arrays und Sortierungen.csproj.CoreCompileInputs.cache
+C:\Users\f.moster\Desktop\Coden\Arrays und Sortierungen\Arrays und Sortierungen\obj\Debug\Arrays und Sortierungen.exe
+C:\Users\f.moster\Desktop\Coden\Arrays und Sortierungen\Arrays und Sortierungen\obj\Debug\Arrays und Sortierungen.pdb
