@@ -1,0 +1,67 @@
+
+body{
+    background-color: #111111;
+}
+.Return-Icon{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top:5%;
+    left: 1%;
+
+
+}
+.Header-Title{
+  position: absolute;
+  top:40%;
+  left:25%;
+    color:whitesmoke;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 101px;
+    font-weight: bold;
+    color: #e9e9e9;
+}
+.Header-Content{
+    position: absolute;
+  top:60%;
+  left:0.5%;
+  right: 0.5%;
+    color:whitesmoke;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    font-weight:lighter;
+    color: #e9e9e9;
+}
+.Header-Con{
+    position: relative;
+    text-align: center;
+}
+.Header{
+  
+    width: 75%;
+    height: 750px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+    object-fit: cover;
+}
+.Nav-Bar{
+  position: relative;
+  top:100px;
+  display: flex;
+  column-gap: 100px;
+  justify-content:center;
+  color:whitesmoke;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  font: weight 400px;;
+  color: #e9e9e9;
+}
+.Port-Link:hover {
+    text-decoration:overline;
+}
+.Port-Link{
+    color: #e9e9e9;
+    text-decoration: none;
+}

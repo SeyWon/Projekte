@@ -1,0 +1,55 @@
+.MusicVideo{
+    position: relative;
+    top: 40%;
+    flex-basis: 40%;
+    
+}
+
+.Portfolio{
+    
+    
+    color: #4c0910;
+    text-decoration: underline overline;
+    text-underline-offset: 5px;
+}
+.First{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    
+
+}
+.MusicVideo-Content{
+    position: relative;
+    top: 60%;
+    font-size: 18px;
+  padding-left: 50px;
+  color:whitesmoke;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+    
+}
+
+.Trailer-Video{
+    position: relative;
+    top: 300px;
+    
+    
+
+}
+.Trailer{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+.Trailer-Content{
+    position: relative;
+    top: 80%;
+    font-size: 18px;
+  padding-left: 50px;
+  color:whitesmoke;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+}
